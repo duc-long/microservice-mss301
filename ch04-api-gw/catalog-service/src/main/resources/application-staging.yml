@@ -4,4 +4,4 @@
 # vd application-staging        -> profile=staging
 #    application-prod           -> profile=prod
 server:
-  port: 8888
+  port: 8091
