@@ -5,3 +5,9 @@
 #    application-prod           -> profile=prod
 server:
   port: 8888
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: file:///C:/Users/nguye/Material/study-project/coding/micorservice/New folder (2)/fa26-se1905-mss301/ch04-api-gw/config-repo
